@@ -1,0 +1,9 @@
+PLN_DBSCHEMA = "GIV001"
+PLN_DBNM = "mrtgivdb"
+PLN_DBUSERNM = "db2inst5"
+PLN_DBPASSWD = "db2inst5"
+
+IF_DBSCHEMA = "IFMURATA"
+IF_DBNM = "mrtifdb"
+IF_DBUSERNM = "db2inst5"
+IF_DBPASSWD = "db2inst5"
